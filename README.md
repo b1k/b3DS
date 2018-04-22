@@ -12,7 +12,7 @@ A 3DS/New 3DS Rom Decrypter and Encrypter
 After you've installed the latest version of Python 2, run `pip install pycrypto` in command prompt.
 
 ## Usage
-python b3DS Decrypt.py "File location of rom" eg. C:\Users\User\Downloads\0207 - New Super Mario Bros. 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).3ds|
+python b3DS Decrypt.py "File location of rom" eg. C:\Users\User\Downloads\0207 - New Super Mario Bros. 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).3ds
 
 ## Status
 Supports all known crypto-types: 
