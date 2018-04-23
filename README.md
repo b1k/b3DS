@@ -1,6 +1,7 @@
 # b3DS
 A 3DS/New 3DS Rom Decrypter and Encrypter
 
+### SUPPORTS ONLY .3DS FOR NOW
 ### If anyone wants to improve on the code, feel free to do so.
 
 ## Prerequisites
