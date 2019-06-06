@@ -1,5 +1,5 @@
 # b3DS
-A 3DS/New 3DS Rom Decrypter and Encrypter
+A 3DS/New 3DS Rom Decryptor and Encrypter
 
 ### If anyone wants to improve on the code, feel free to do so.
 
