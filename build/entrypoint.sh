@@ -9,7 +9,7 @@ ECHO="echo -e"
 ### environments
 ###########################################
 TO_DECRP_FOLDER=/to_decrypt
-TO_ENCRP_FOLDER=/to_encrpt
+TO_ENCRP_FOLDER=/to_encrypt
 OUTPUT_FOLDER=/output
 
 DECRP=/b3DS/b3DSDecrypt.py

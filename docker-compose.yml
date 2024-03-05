@@ -8,6 +8,6 @@ services:
       dockerfile: ./build/Dockerfile
     restart: "no"
     volumes:
-      - ./to_encrpt:/to_encrpt
+      - ./to_encrypt:/to_encrypt
       - ./to_decrypt:/to_decrypt
       - ./output:/output
