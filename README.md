@@ -21,3 +21,11 @@ Supports all known crypto-types:
 * 7.x (Key 0x25)
 * New3DS 9.3 (Key 0x18)
 * New3DS 9.6 (Key 0x1B)
+
+## Docker
+
+You can use docker.  
+For the first time or to rebuild use `docker compose up -d --build --remove-orphans`.
+That would create the image and three folders.  
+Put your encrypted files in the folder `to_decrypt` and run the container with `docker compose up`.
+After its stop the decrypted files are in the folter `output`. 
