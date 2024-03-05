@@ -1,0 +1,13 @@
+version: "3.5"
+
+services:
+  converter:
+    container_name: converter
+    build:
+      context: .
+      dockerfile: ./build/Dockerfile
+    restart: "no"
+    volumes:
+      - ./to_encrypt:/to_encrypt
+      - ./to_decrypt:/to_decrypt
+      - ./output:/output
